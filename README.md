@@ -15,10 +15,11 @@ Install all dependencies:
 
 `npm i`
 
-Run the app:
+(Temporarily)
+For this app to function, open 2 terminals:
+- Terminal 1 > `npm run dev`
+- Terminal 2 > `npm run server`
 
-`npm run dev`
+[Click here to view app](http://localhost:5173/)
 
-Open the app in your browser:
-
-[localhost:5173](http://localhost:5173/)
+The deployed build is not functional (yet)
